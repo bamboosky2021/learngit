@@ -4,3 +4,4 @@ Git has a mutable index called stage
 Git tracks changes.
 changes
 test1 change for github 
+create a new branch "dev" is quick
