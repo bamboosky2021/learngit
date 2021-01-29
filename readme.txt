@@ -7,3 +7,4 @@ test1 change for github
 create a new branch "dev" is quick
 new one
 new two
+dev2 changes made
